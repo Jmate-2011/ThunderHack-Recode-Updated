@@ -41,3 +41,5 @@ jobs:
           title: "Latest Build (1.21)"
           files: |
             ./build/libs/*.jar
+
+
